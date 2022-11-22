@@ -1,0 +1,16 @@
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet"  href='css/matriz2.css'>
+  </head>
+    
+  <body>
+      
+    <div class="container">
+      <span class="box primeira">Caixa 1</span>
+      <span class="box segunda">Caixa 2</span>
+      <span class="box terceira">Caixa 3</span>
+    </div>
+  </body>
+
+</html>
